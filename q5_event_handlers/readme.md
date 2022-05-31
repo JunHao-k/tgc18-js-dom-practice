@@ -1,4 +1,4 @@
-# Q5 - Event Handlers
+    # Q5 - Event Handlers
 
 An event handler is a function that **activates** when a certain event is detected on a DOM element.
 
